@@ -41,7 +41,7 @@ Les contributions sont toujours les bienvenues ! Si vous souhaitez ajouter à ce
 Ce projet est distribué sous la Licence MIT.
 
 ## 📬 Contact
-Pour des questions ou des commentaires, veuillez me contacter à [email@example.com](mailto:email@example.com).
+Pour des questions ou des commentaires, veuillez me contacter.
 
 ## 💖 Remerciements
 Merci à tous ceux qui ont contribué à cette collection et à la communauté de recherche en sécurité informatique pour leurs connaissances partagées.
